@@ -76,7 +76,7 @@ Run the app.
 💻 Flask Backend-
 bash   
 
-git clone https://github.com/YOUR_USERNAME/MediaUploader.git  
+git clone https://github.com/AgamPandey133/MediaUploader.git  
 
 cd MediaUploader  
 
