@@ -66,7 +66,7 @@ Clone this repo or download ZIP.
 
 Open in Android Studio.  
 
-Replace IP http://192.168.X.X:5000 with your local machine IP (same Wi-Fi).  
+Replace IP  with your local machine IP (same Wi-Fi).  
 
 Connect a real Android device.  
 
