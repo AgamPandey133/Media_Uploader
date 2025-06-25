@@ -119,7 +119,7 @@ MediaUploader/
 
 
 
-📌 Planned Features  
+📌 Planned Features  :-
 
 
 ✅ Basic delete functionality  
